@@ -1,0 +1,7 @@
+table {
+  border-bottom: 15px solid black;
+}
+
+tr, th, td {
+  border-top: 15px solid black;
+}
